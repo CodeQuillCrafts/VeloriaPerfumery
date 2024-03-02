@@ -21,4 +21,4 @@
 <img src="images/Preview3.png">
 
 ## <a href="https://codequillcrafts.github.io/VeloriaPerfumery" target=_blank>View Live At Github</a>
-## <a href="https://veloriaperfumery-codequillcrafts" target=_blank>View Live At Netlify</a>
+## <a href="https://veloriaperfumery-codequillcrafts.netlify.app" target=_blank>View Live At Netlify</a>
